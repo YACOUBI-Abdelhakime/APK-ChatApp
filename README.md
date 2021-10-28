@@ -1,6 +1,3 @@
-## APK-ChatApp
-
-
 # Vous pouvez utiliser ce compte en tant que étudiant :
       login : etd@gmail.com 
       mot de passe : 0123456789
